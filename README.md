@@ -102,7 +102,7 @@ ROBO: You are welcome..
 
 ## Screenshots
 ### First Impression
-[Screenshot](Assets/Screenshot1.png)
+![Screenshot](Assets/Screenshot1.png)
 
 ### Keep Going with Chats
-[Screenshot](Assets/Screenshot2.png)
+![Screenshot](Assets/Screenshot2.png)
