@@ -4,7 +4,7 @@
 This project involves building a chatbot called Robo, which interacts with users by answering queries about chatbots or general text input. The chatbot leverages Natural Language Processing (NLP) techniques to understand and respond to user input, focusing on keyword matching and semantic similarity.
 
 ---
-## Features:
+## ✨Features:
 
 Greeting Recognition:
 Detects and responds to simple greetings like "hi", "hello", or "what's up".
@@ -16,7 +16,7 @@ Exit Commands:
 Recognizes user inputs like "bye" or "thank you" to terminate the conversation politely.
 
 ----------------------------------
-## System Requirements:
+## ⚙️System Requirements:
 ----------------------------------
 **Python 3.x**
 **Libraries:**
@@ -28,7 +28,7 @@ Recognizes user inputs like "bye" or "thank you" to terminate the conversation p
         sklearn (scikit-learn for TfidfVectorizer and cosine similarity)
 
 ---------------------------------
-## Implementation Details:
+## 🚀Implementation Details:
 ---------------------------------
  **1. Preprocessing:**
 The chatbot uses tokenization and lemmatization for preprocessing:
@@ -67,7 +67,7 @@ The chatbot runs in a while loop, accepting user input until the user types "bye
 Handles "thank you" with an acknowledgment response.
 
 ---
-## Key Functions:
+## 📖Key Functions:
 ----------------------------------
 **Greeting(sentence)**
 
